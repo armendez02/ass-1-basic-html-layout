@@ -43,9 +43,9 @@ body {
   }
   
   .left-box, .main-box, .right-box {
-    border-width: 1px;
+    border-width: 3px;
     border-style: solid;
-    border-color: #FFC0CB;
+    border-color: brown;
     padding: 1em;
     margin: 0 10px;
     flex-basis: 30%;
